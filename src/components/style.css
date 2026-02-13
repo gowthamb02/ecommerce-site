@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.products-list{
+    display: flex;
+    flex-direction: column;
+}
